@@ -1,0 +1,4 @@
+.card-img-top {
+    height: 27vw; /* Example: set a fixed height relative to viewport width */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+}
